@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "855762089685",
+    "project_id": "cmsc-23-b2l-npcinense-e772f",
+    "storage_bucket": "cmsc-23-b2l-npcinense-e772f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855762089685:android:6f9170e48b97fb79a1145c",
+        "android_client_info": {
+          "package_name": "com.example.week7_networking_discussion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855762089685-5vcnf23pabvpn2e2ub5h8qligu6roqmu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq4-F-3WfcKRTW5s6KgvxEVu8Ufz7AvMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855762089685-5vcnf23pabvpn2e2ub5h8qligu6roqmu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
